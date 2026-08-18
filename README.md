@@ -1,4 +1,4 @@
-# No-Net-UPI
+# UPI-WITHOUT-INTERNET
 
 ### Offline Payment Simulation Using Mesh Networking
 
