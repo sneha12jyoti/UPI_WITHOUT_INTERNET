@@ -5,7 +5,7 @@
 @REM (~60KB) from Maven Central into .mvn/wrapper/ and then use it to download
 @REM the full Maven distribution.
 @REM
-@REM Required: Java 17 or newer on PATH (or JAVA_HOME set).
+@REM Required: Java 25 or newer on PATH (or JAVA_HOME set).
 @REM ----------------------------------------------------------------------------
 
 @echo off

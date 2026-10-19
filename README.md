@@ -205,8 +205,8 @@ src/
 
 **Backend**
 
-* Java 17+
-* Spring Boot 3.3
+* Java 25 (LTS)
+* Spring Boot 3.5
 * Spring Web
 * Spring Data JPA
 * Hibernate
@@ -235,7 +235,7 @@ src/
 
 ### Requirements
 
-* JDK 17 or newer
+* JDK 25 or newer
 * No external database required
 * No separate Maven installation required
 

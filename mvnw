@@ -6,7 +6,7 @@
 # (~60KB) from Maven Central into .mvn/wrapper/ and then use it to download
 # the full Maven distribution.
 #
-# Required: Java 17 or newer on PATH (or JAVA_HOME set).
+# Required: Java 25 or newer on PATH (or JAVA_HOME set).
 # ----------------------------------------------------------------------------
 
 set -e
@@ -17,7 +17,7 @@ else
   JAVA_EXE="$(command -v java || true)"
 fi
 if [ -z "$JAVA_EXE" ] || [ ! -x "$JAVA_EXE" ]; then
-  echo "ERROR: java not found. Install JDK 17+ or set JAVA_HOME." >&2
+  echo "ERROR: java not found. Install JDK 25+ or set JAVA_HOME." >&2
   exit 1
 fi
 
